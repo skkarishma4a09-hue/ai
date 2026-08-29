@@ -1,0 +1,6 @@
+{
+  "name": "AgriMind - Autonomous AI Agriculture & Smart Farm Platform",
+  "description": "Next-generation Smart AI Agriculture platform featuring Autonomous Multi-Agent Decision Orchestration, Leaf Disease & Pest Vision AI, Real-Time Weather, Soil NPK Health, Smart Irrigation, and Telugu/English AI Chatbot.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
